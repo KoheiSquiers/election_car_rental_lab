@@ -1,0 +1,7 @@
+{
+  "trailingComma": "all",
+  "tabWidth": 2,
+  "doubleQuote": true,
+  "jsxDoubleQuote": true,
+  "printWidth": 100
+}
